@@ -1,18 +1,30 @@
 # llm-reasoning-papers
 
 ## Train LLM to reason 
-1. **[Paper Title 1](https://arxiv.org/abs/1234.56789)**
+1. **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
+Reinforcement Learning](https://arxiv.org/pdf/2501.12948)**
    <details>
      <summary>TL;DR</summary>
-     A brief summary of the paper's key contributions and findings.
+     Making LLM reason through pure RL (open-source) 
    </details>
 
-2. **[Paper Title 2](https://arxiv.org/abs/9876.54321)**
+2. **[DRT: Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/pdf/2412.17498)**
    <details>
      <summary>TL;DR</summary>
-     Another brief summary explaining what the paper is about.
+     Agentic + CoT for Machine Translation
    </details>
-
+3. **[Scaling up Test-Time Compute with Latent Reasoning:
+A Recurrent Depth Approach](https://arxiv.org/pdf/2502.05171)**
+   <details>
+     <summary>TL;DR</summary>
+     Recurrent reasoning in latent space as compared to using tokens.
+   </details>
+4. **[On the Emergence of Thinking in LLMs I:
+Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
+   <details>
+     <summary>TL;DR</summary>
+     Propose RLSP (Reinforcement Learning via Self-Play) a framework to understand and build Large Reasoning models.
+   </details>
 ## Efficient Reasoning methods 
 
 ## Vision Reasoning 
