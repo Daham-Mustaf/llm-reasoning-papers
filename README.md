@@ -25,8 +25,25 @@ Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
      <summary>TL;DR</summary>
      Propose RLSP (Reinforcement Learning via Self-Play) a framework to understand and build Large Reasoning models.
    </details>
+4. **[Competitive Programming with Large Reasoning Models
+](https://arxiv.org/abs/2502.06807)**
+   <details>
+     <summary>TL;DR</summary>
+    Demonstrates for competitive coding scaling test time compute leads to better performance than hand crafted features used to chose particular solution.
+   </details>
 ## Efficient Reasoning methods 
-
+1. **[s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393v2)**
+   <details>
+     <summary>TL;DR</summary>
+     Post training using SFT on 1000 samples leads to reasoning model similar to o1 
+   </details>
 ## Vision Reasoning 
+
+## Related Blogs
+1. **Reinforcement Learning with Verifiable Rewards](https://vinija.ai/concepts/RFT/)**
+   <details>
+     <summary>TL;DR</summary>
+     Introduction to RLVR 
+   </details>
 
 
