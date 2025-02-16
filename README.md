@@ -23,24 +23,29 @@ A Recurrent Depth Approach](https://arxiv.org/pdf/2502.05171)**
 Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
    <details>
      <summary>TL;DR</summary>
-     Propose RLSP (Reinforcement Learning via Self-Play) a framework to understand and build Large Reasoning models.
+     Propose RLSP (Reinforcement Learning via Self-Play) as a framework to understand and build large reasoning models.
    </details>
 4. **[Competitive Programming with Large Reasoning Models
 ](https://arxiv.org/abs/2502.06807)**
    <details>
      <summary>TL;DR</summary>
-    Demonstrates for competitive coding scaling test time compute leads to better performance than hand crafted features used to chose particular solution.
+    Demonstrates that competitive coding scaling test time computing leads to better performance than hand-crafted features used to choose a particular solution.
    </details>
 ## Efficient Reasoning methods 
 1. **[s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393v2)**
    <details>
      <summary>TL;DR</summary>
-     Post training using SFT on 1000 samples leads to reasoning model similar to o1 
+     Post-training using SFT on 1000 samples leads to a reasoning model similar to o1 
    </details>
-## Vision Reasoning 
-
+## Vision/Multimodal Reasoning 
+1. **[Imagine while Reasoning in Space:
+Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542)**
+   <details>
+     <summary>TL;DR</summary>
+    Proposes Multimodal Visualization-of-Thought (MVoT) having an intermediate thinking stack composed of vision and language.   
+   </details>
 ## Related Blogs
-1. **Reinforcement Learning with Verifiable Rewards](https://vinija.ai/concepts/RFT/)**
+1. **[Reinforcement Learning with Verifiable Rewards](https://vinija.ai/concepts/RFT)**
    <details>
      <summary>TL;DR</summary>
      Introduction to RLVR 
