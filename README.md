@@ -31,6 +31,13 @@ Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
      <summary>TL;DR</summary>
     Demonstrates that competitive coding scaling test time computing leads to better performance than hand-crafted features used to choose a particular solution.
    </details>
+
+5. **[Sky-T1-32B: Data-Efficient Training for Large Reasoning Models](https://github.com/NovaSky-AI/SkyThought)**
+   <details>
+     <summary>TL;DR</summary>
+     Shows that Long Chain-of-Thought (Long CoT) reasoning can be efficiently learned through supervised fine-tuning (SFT) and LoRA with just 17k samples, significantly improving performance on math and coding benchmarks.
+   </details>
+
 ## Efficient Reasoning methods 
 1. **[s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393v2)**
    <details>
