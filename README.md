@@ -44,6 +44,13 @@ Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
      <summary>TL;DR</summary>
      Post-training using SFT on 1000 samples leads to a reasoning model similar to o1 
    </details>
+
+2. **[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/pdf/2503.16419?)**
+<details>
+  <summary>TL;DR</summary>
+  First systematic survey categorizing efficient reasoning in LLMs into model-based, reasoning output-based, and input prompts-based approaches, addressing the "overthinking phenomenon" in reasoning models.
+</details>
+
 ## Vision/Multimodal Reasoning 
 1. **[Imagine while Reasoning in Space:
 Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542)**
