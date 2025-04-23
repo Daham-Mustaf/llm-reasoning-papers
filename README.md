@@ -51,6 +51,12 @@ Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
   First systematic survey categorizing efficient reasoning in LLMs into model-based, reasoning output-based, and input prompts-based approaches, addressing the "overthinking phenomenon" in reasoning models.
 </details>
 
+3. **[Think Deep, Think Fast: Investigating Efficiency of Verifierfree Inference-time-scaling Methods](https://arxiv.org/abs/2504.14047)**
+<details>
+  <summary>TL;DR</summary>
+  Comprehensive analysis of verifier-free inference-time scaling methods across reasoning and non-reasoning models, showing that majority voting consistently outperforms more complex methods and that non-reasoning models (even with high inference budgets) still underperform reasoning-specialized models.
+</details>
+
 ## Vision/Multimodal Reasoning 
 1. **[Imagine while Reasoning in Space:
 Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542)**
