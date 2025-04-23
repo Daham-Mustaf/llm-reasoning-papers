@@ -38,6 +38,12 @@ Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
      Shows that Long Chain-of-Thought (Long CoT) reasoning can be efficiently learned through supervised fine-tuning (SFT) and LoRA with just 17k samples, significantly improving performance on math and coding benchmarks.
    </details>
 
+6. **[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216)**
+<details>
+  <summary>TL;DR</summary>
+  Proposes d1, a two-stage post-training framework (SFT + novel diffu-GRPO algorithm) that adapts pre-trained masked diffusion LLMs (dLLMs) for reasoning tasks. Their approach shows significant improvements over baseline models on math and logical reasoning benchmarks, demonstrating that non-autoregressive models can also benefit from reinforcement learning techniques that were previously limited to autoregressive models.
+</details>
+
 ## Efficient Reasoning methods 
 1. **[s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393v2)**
    <details>
