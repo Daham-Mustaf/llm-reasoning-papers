@@ -7,38 +7,44 @@ Reinforcement Learning](https://arxiv.org/pdf/2501.12948)**
      <summary>TL;DR</summary>
      Making LLM reason through pure RL (open-source) 
    </details>
+   
+2. **[Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents](https://arxiv.org/pdf/2505.09970)**
+   <details>
+     <summary>TL;DR</summary>
+     Enhances ReAct with multi-step planning and detailed reasoning. Includes fine-tuning strategy enabling smaller models (Llama 8B/70B) to match larger LLMs through curriculum learning on agent tasks.
+   </details>
 
-2. **[DRT: Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/pdf/2412.17498)**
+3. **[DRT: Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/pdf/2412.17498)**
    <details>
      <summary>TL;DR</summary>
      Agentic + CoT for Machine Translation
    </details>
-3. **[Scaling up Test-Time Compute with Latent Reasoning:
+4. **[Scaling up Test-Time Compute with Latent Reasoning:
 A Recurrent Depth Approach](https://arxiv.org/pdf/2502.05171)**
    <details>
      <summary>TL;DR</summary>
      Recurrent reasoning in latent space as compared to using tokens.
    </details>
-4. **[On the Emergence of Thinking in LLMs I:
+5. **[On the Emergence of Thinking in LLMs I:
 Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
    <details>
      <summary>TL;DR</summary>
      Propose RLSP (Reinforcement Learning via Self-Play) as a framework to understand and build large reasoning models.
    </details>
-4. **[Competitive Programming with Large Reasoning Models
+6. **[Competitive Programming with Large Reasoning Models
 ](https://arxiv.org/abs/2502.06807)**
    <details>
      <summary>TL;DR</summary>
     Demonstrates that competitive coding scaling test time computing leads to better performance than hand-crafted features used to choose a particular solution.
    </details>
 
-5. **[Sky-T1-32B: Data-Efficient Training for Large Reasoning Models](https://github.com/NovaSky-AI/SkyThought)**
+7. **[Sky-T1-32B: Data-Efficient Training for Large Reasoning Models](https://github.com/NovaSky-AI/SkyThought)**
    <details>
      <summary>TL;DR</summary>
      Shows that Long Chain-of-Thought (Long CoT) reasoning can be efficiently learned through supervised fine-tuning (SFT) and LoRA with just 17k samples, significantly improving performance on math and coding benchmarks.
    </details>
 
-6. **[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216)**
+8. **[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216)**
 <details>
   <summary>TL;DR</summary>
   Proposes d1, a two-stage post-training framework (SFT + novel diffu-GRPO algorithm) that adapts pre-trained masked diffusion LLMs (dLLMs) for reasoning tasks. Their approach shows significant improvements over baseline models on math and logical reasoning benchmarks, demonstrating that non-autoregressive models can also benefit from reinforcement learning techniques that were previously limited to autoregressive models.
