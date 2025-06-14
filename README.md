@@ -69,6 +69,13 @@ Searching for the Right Intuition](https://arxiv.org/pdf/2502.06773)**
   Comprehensive analysis of verifier-free inference-time scaling methods across reasoning and non-reasoning models, showing that majority voting consistently outperforms more complex methods and that non-reasoning models (even with high inference budgets) still underperform reasoning-specialized models.
 </details>
 
+   
+2. **[Pre-trained Language Models Can Reason without Prompting](https://arxiv.org/abs/TODO)**
+   <details>
+     <summary>TL;DR</summary>
+     Shows that Chain-of-Thought reasoning paths exist in pre-trained LLMs and can be accessed by modifying the decoding process, without requiring prompt engineering.
+   </details>
+   
 ## Vision/Multimodal Reasoning 
 1. **[Imagine while Reasoning in Space:
 Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542)**
@@ -76,6 +83,8 @@ Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542)**
      <summary>TL;DR</summary>
     Proposes Multimodal Visualization-of-Thought (MVoT) having an intermediate thinking stack composed of vision and language.   
    </details>
+
+   
 ## Related Blogs
 1. **[Reinforcement Learning with Verifiable Rewards](https://vinija.ai/concepts/RFT)**
    <details>
